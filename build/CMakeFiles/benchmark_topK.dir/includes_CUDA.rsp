@@ -1,0 +1,1 @@
+-I/home/sashank/sashank_ws/cuda/custom_kernels_lib -I/home/sashank/sashank_ws/cuda/custom_kernels_lib/src/kernels -I"/usr/local/cuda-12.2/include" -I/home/sashank/sashank_ws/cuda/custom_kernels_lib/../cutlass/include

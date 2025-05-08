@@ -1,0 +1,5 @@
+# ninja log v5
+1	18176	1745820587078860764	/home/sashank/sashank_ws/cuda/custom_kernels_lib/build/temp.linux-x86_64-cpython-310/src/kernels/FA2/kernel_topK_FA2.o	a04ca115ea2cfc23
+6	18230	1745821017307322371	/home/sashank/sashank_ws/cuda/custom_kernels_lib/build/temp.linux-x86_64-cpython-310/src/kernels/FA2/kernel_topK_FA2.o	a04ca115ea2cfc23
+3	19274	1745821092705176032	/home/sashank/sashank_ws/cuda/custom_kernels_lib/build/temp.linux-x86_64-cpython-310/src/kernels/FA2/flash_attention_topk_binding.o	f6f302df6bbd110f
+23	20205	1745822310136499344	/home/sashank/sashank_ws/cuda/custom_kernels_lib/build/temp.linux-x86_64-cpython-310/src/kernels/FA2/flash_attention_topk_binding.o	f6f302df6bbd110f
