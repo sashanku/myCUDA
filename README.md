@@ -21,7 +21,7 @@ This repository serves as a scratch pad for my thoughts and implementations as I
 
 ### TopK FA2
 - **Current Work**: Implementing a topK FA2 kernel to reduce time complexity from O(n²) to O([TIME COMPLEXITY TO BE DETERMINED])
-- The actua gain depends on efficiency of topK selection agorithm.
+- The actual gain depends on efficiency of topK selection agorithm.
 
 ## Usage/Testing
 
